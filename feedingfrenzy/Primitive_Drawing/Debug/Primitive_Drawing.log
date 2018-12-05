@@ -1,0 +1,21 @@
+﻿  texture.cpp
+  shader.cpp
+  Renderer.cpp
+c:\users\samiaa\downloads\transformation-textures\code\feedingfrenzy\primitive_drawing\renderer.cpp(192): warning C4305: 'initializing': truncation from 'double' to 'float'
+  main.cpp
+  FPCamera.cpp
+  FishPart.cpp
+  Fish.cpp
+  Generating Code...
+  stb_image.c
+c:\users\samiaa\downloads\transformation-textures\code\feedingfrenzy\primitive_drawing\stb_image.c(300): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\samiaa\downloads\transformation-textures\code\feedingfrenzy\primitive_drawing\stb_image.c(362): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\samiaa\downloads\transformation-textures\code\feedingfrenzy\primitive_drawing\stb_image.c(400): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\samiaa\downloads\transformation-textures\code\feedingfrenzy\primitive_drawing\stb_image.c(4293): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Primitive_Drawing.vcxproj -> C:\Users\Samiaa\Downloads\transformation-textures\Code\feedingfrenzy\Debug\3D Drawing.exe
+  Primitive_Drawing.vcxproj -> C:\Users\Samiaa\Downloads\transformation-textures\Code\feedingfrenzy\Debug\3D Drawing.pdb (Full PDB)
